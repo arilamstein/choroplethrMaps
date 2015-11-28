@@ -5,6 +5,10 @@ Master: [![Build Status](https://travis-ci.org/trulia/choroplethrMaps.png?branch
   * US States
   * US Counties
   * Countries of the world.
+ 
+## Development
+
+I blog about this package's development [here](http://www.arilamstein.com/blog).
 
 ## Installation
 
