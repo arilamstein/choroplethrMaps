@@ -1,6 +1,6 @@
 Package: choroplethrMaps
 Type: Package
-Title: Contains maps used by the choroplethr package
+Title: Contains Maps Used by the 'choroplethr' Package
 Version: 1.0.1
 Author: Ari Lamstein <ari@lamsteinconsulting.com>
 Maintainer: Ari Lamstein <ari@lamsteinconsulting.com>
